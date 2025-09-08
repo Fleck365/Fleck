@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fleck;Artur;;;
+FN:Artur Fleck
+ORG:Yellow SiC Company GmbH
+TITLE:Lean Coach
+TEL;TYPE=CELL:+491707858760
+EMAIL;TYPE=INTERNET:Artur.Fleck@gmail.com
+URL:https://www.yellow-sic.com
+ADR;TYPE=WORK:;;Römereschstr. 33;Osnabrück;;49090;Germany
+END:VCARD
